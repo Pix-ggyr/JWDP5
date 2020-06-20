@@ -1,0 +1,34 @@
+/* CSS de départ */
+
+header {
+    display: flex;
+    flex-direction: column;
+    width: auto;
+    height: auto;
+    background-color: grey;
+}
+
+header .menu1 {
+    text-align: right;
+}
+
+header h1 {
+    text-align: left;
+}
+
+header .sub {
+    text-align: center;
+    margin: auto;
+}
+
+.display {
+    display: flex;
+    background-color: grey;
+    height: auto;
+    margin-bottom: 50px;
+    margin-top: 64px;
+}
+
+.container {
+    margin-top: 64px;
+}
